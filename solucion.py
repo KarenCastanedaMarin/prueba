@@ -1,5 +1,0 @@
-x1=input("Introduzca X1 \n")
-y1=input("Introduzca Y1 \n")
-x2=input("Introduzca X2 \n")
-y2=input("Introduzca y2 \n")
-print("slope", int(y2) - int(y1)/int(x2)-int(x1))
