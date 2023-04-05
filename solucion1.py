@@ -1,0 +1,5 @@
+x1=int(input("Introduzca X1 \n"))
+y1=int(input("Introduzca Y1 \n"))
+x2=int(input("Introduzca X2 \n"))
+y2=int(input("Introduzca y2 \n"))
+print("slope", y2 - y1/x2-x1)
