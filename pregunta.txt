@@ -1,0 +1,4 @@
+#ejercicio/homework
+  #pide por sonsola con el comando input dos puntos ( recuerda que por cada punto necesitaras pedir 2 datos) y calcula la pendiente)
+  #dadas dos matrices a=[5,3,7],[7,9,0],[1,5,3]
+ # b=[6,1,8], [9,9,1], [0,0,3]
